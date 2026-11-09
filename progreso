@@ -1,0 +1,4 @@
+juegos = ["mario", "zelda", "minecraft"]
+
+for juego in juegos:
+    print("Me encanta jugar " + juego)
